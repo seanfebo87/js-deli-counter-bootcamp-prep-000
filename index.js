@@ -17,6 +17,6 @@ function currentLine(katzDeliLine) {
     return ("The line is currently empty.")
   }
   else {
-    return ("The line is currently: 1. ' + katzDeli[0] + ', 2. '+ katzDeli[1] +', 3. '+ katzDeli[2]")
+    return ("The line is currently: 1. " + katzDeli[0] + ", 2. " + katzDeli[1] + ", 3. " + katzDeli[2])
   }
 }
