@@ -5,5 +5,5 @@ function takeANumber(katzDeliLine, n) {
 
 function nowServing() {
   katzDeliLine.shift()
-  return 
+  return katzDeliLine[0]
 }
